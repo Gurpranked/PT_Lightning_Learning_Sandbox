@@ -1,6 +1,7 @@
 # PyTorch Lightning Learning Tutorial
 
 Author: Gurpreet Singh
+
 Date: 5/8/2025
 
 This repo has some fundamental code I used to learn about PyTorch Lightning.
